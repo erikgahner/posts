@@ -1,0 +1,94 @@
+Folketinget er begyndt at gøre informationer tilgængelige i form af [åbne data](http://www.ft.dk/AabneData.aspx). Dette indlæg viser simpelt og illustrativt, hvordan man kan få hentet disse data ned fra Folketingets hjemmeside ind i R. Til at gøre dette gør jeg brug af pakkerne `httr` (der kan hente vores data ned fra Folketingets hjemmeside) og `ggplot2` (der som altid kan hjælpe os med at lave et par grafer), begge udviklet af [Hadley Wickham](http://had.co.nz/). Pakkerne er tilgængelige via CRAN og kan - når de er installeret - åbnes med:
+
+```{r, warning=FALSE}
+library(httr)
+library(ggplot2)
+```
+
+For at få et overblik over de forskellige data, der er tilgængelige som åbne data på Folketingets hjemmeside, kan du besøge <http://oda.ft.dk/>. Jeg valgte som det første at kigge på siden med afstemningerne i Folketinget og hente en sådan side i JSON format ind i R med funktionen `GET()` i `httr` pakken (`jsonlite` pakken er også ganske fin, hvis man skulle have lyst til at forsøge sig med andre pakker):
+
+```{r}
+ft.vote.page <- GET("http://oda.ft.dk/api/Afstemning?$inlinecount=allpages&$skip=0")
+ft.vote.page
+```
+
+Ovenstående viser de åbne data (der også kan hentes i XML) og nogle af de informationer, der ligger gemt heri. Ved hjælp af `content()` funktionen i `httr` kan vi skabe et objekt i R, der gør det hele lidt nemmere at arbejde med. Foruden at gøre dette trækker vi et tal ud der viser, hvor mange afstemninger der er i datasættet i skrivende stund:
+
+```{r}
+ft.vote.content <- content(ft.vote.page)
+ft.vote.content$odata.count
+```
+
+Den side vi har hentet rummer dog ikke alle `r ft.vote.content$odata.count` afstemninger, men blot de første 20. Jeg kunne ikke fremkalde én side med alle afstemninger, men maksimalt få vist 20 afstemninger, hvorfor jeg i stedet lavede et par loops, der gemmer de første tyve afstemninger i en data frame, derefter supplerer med de næste tyve og så videre, indtil der ikke er flere afstemninger at hente. Jeg gemmer i nærværende tilfælde tre simple informationer fra hver afstemning: 1) id, 2) status på om forslaget blev forkastet eller vedtaget samt 3) afstemningstypenummer. 
+
+```{r}
+ft.vote <- data.frame(NA,NA,NA)
+seqnr <- seq(0, as.numeric(ft.vote.content$odata.count) - 20, 20)
+
+for(i in seqnr) {
+  link <- paste0("http://oda.ft.dk/api/Afstemning?$inlinecount=allpages&$skip=",i)
+  ft.temp <- GET(link)
+  ft.temp.content <- content(ft.temp)
+  for(j in 1:20) {
+    ft.vote[i + j,] <- c(ft.temp.content$value[[j]]$id,
+                         ft.temp.content$value[[j]]$vedtaget,
+                         ft.temp.content$value[[j]]$typeid)
+  }
+}
+```
+
+Den første linje laver en tom data frame, den anden linje en vektor med information omkring, hvilke sider vi skal hente data fra, for at få alle afstemninger. Derefter henter R alle afstemningerne ned, tyve afstemninger pr. side, og gemmer id, vedtaget og typeid i vores data frame `ft.vote`. Kombineret med en navngivning af vores variable får vi så følgende output:
+
+
+```{r}
+names(ft.vote) <- c("id","vedtaget","typeid")
+head(ft.vote)
+```
+
+For at blive klogere på, hvilke typer af afstemninger der er tale om, henter vi siden med afstemningstyper ned i R og kobler informationerne herfra sammen med typeid i vores `ft.vote` data frame.
+
+
+```{r}
+typer.get <- GET("http://oda.ft.dk/api/Afstemningstype?$inlinecount=allpages")
+typer.indhold <- content(typer.get)
+
+ft.vote$type <- NA
+ft.vote$type[ft.vote$typeid==1] <- typer.indhold$value[[1]]$type
+ft.vote$type[ft.vote$typeid==2] <- typer.indhold$value[[2]]$type
+ft.vote$type[ft.vote$typeid==3] <- typer.indhold$value[[3]]$type
+ft.vote$type[ft.vote$typeid==4] <- typer.indhold$value[[4]]$type
+
+ft.vote$type <- gsub("<U\\+00c6>", "Æ", ft.vote$type)
+```
+
+Den sidste linje i ovenstående ændrer `<U+00c6>` til et `Æ`, da Folketingets system ikke kan vise den slags tegn. Derefter laver vi en variabel, `vedtaget`, der har teksten _Forkastet_ såfremt lovforslaget er forkastet og _Vedtaget_ hvis lovforslaget er, ja, vedtaget. Dette giver os en samlet data frame, der ser ud som følger:
+
+```{r}
+ft.vote$resultat <- NA
+ft.vote$resultat[ft.vote$vedtaget==FALSE] <- "Forkastet"
+ft.vote$resultat[ft.vote$vedtaget==TRUE] <- "Vedtaget"
+
+head(ft.vote)
+```
+
+Vi kan nu få et visuelt overblik over, hvilke typer af afstemninger, der er i databasen med de åbne data:
+
+
+```{r fig.width=8, fig.height=4}
+ggplot(ft.vote, aes(type)) + geom_bar() +
+  theme_bw() +
+  xlab("Type") +
+  ylab("Antal")
+```
+
+Langt de flete afsteninger i de åbne data vedrører afstemninger sendt til endelig vedtagelse og kun meget få vedrører udvalgsindstillinger. Vi kan også se nærmere på, om der er forskelle i hvilke typer af afstemninger der bliver vedtaget (hvilket der af meget logiske årsager er):
+  
+```{r fig.width=7, fig.height=4}
+ggplot(ft.vote, aes(resultat)) + geom_bar() +
+  facet_wrap(~ type) + 
+  theme_bw() +
+  xlab("") +
+  ylab("Antal") 
+```
+
+Som det kan ses bliver afstemninger omkring endelig vedtagelse oftere vedtaget end forkastet, hvor det modsatte er tilfældet for ændringsforslag. Ovenstående er ét eksempel på, hvordan man kan hente data ned og kombinere dem fra Folketingets åbne data, og der er givetvis mange forskellige måder at gøre dette på. Ligeledes er der flere forskellige sider at hente ned og kombinere på hjemmesiden, så bare fordi afstemninger ikke nødvendigvis er det mest interessante, betyder det ikke, at det ikke kan kombineres med andre spændende data. God fornøjelse.
