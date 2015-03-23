@@ -1,0 +1,14 @@
+[Forrige indlæg](http://erikgahner.dk/2015/03/15/hent-aabne-data-fra-folketinget-ind-i-r/) var skrevet i R (med [R Markdown](http://rmarkdown.rstudio.com/)). Yihui Xie viser på [sin blog](http://yihui.name/knitr/demo/wordpress/), hvordan man med pakkerne `RWordPress` og `knitr` nemt kan publicere indlæg direkte fra R til WordPress. Her er scriptet for eventuelt interesserede:
+
+```{r, eval=FALSE}
+library(RWordPress)
+library(knitr)
+
+options(WordpressLogin = c(brugernavn = 'kodeord'),
+        WordpressURL = 'http://hjemmeside.dk/xmlrpc.php')
+knit2wp('filnavn.Rmd', title = 'Titel på indlæg')
+```
+
+Der er kun fire informationer, der skal udskiftes (brugernavn, kodeord, URL og filnavn). Til ovenstående kan det desuden tilføjes, at `knit2wp()` giver mulighed for at specificere, hvilke kategorier indlægget skal publiceres under med `categories = c('Politik', 'Medier')` (og det samme med _key words_ ved at anvende `mt_keywords`). Hvis man ikke vil have at indlægget skal publiceres direkte, kan man tilføje `publish = FALSE`, der som standard er sat til at være `TRUE`.
+
+Det er yderst begrænset, hvor meget der er brug for at arbejde med manuelt i WordPress. Det eneste jeg ændrede manuelt i forrige indlæg var destinationen til billederne. Jeg har det bedst med at figurer anvendt i mine indlæg er at finde ét og samme sted.
