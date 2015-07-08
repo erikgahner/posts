@@ -69,3 +69,20 @@ ggplot(lykke, aes(x=lykke, y=reorder(land, lykke))) +
   xlab("Lykkegennemsnit") +
   theme_minimal()
 dev.off()
+
+# Tilføj 95% konfidensintervaller, jvf. http://erikgahner.dk/2015/07/08/er-uligheden-i-danskernes-lykke-blevet-stoerre/#comment-15651
+lykke <- data.frame(lykke,aggregate(ess6$happy, list(ess6$cntry), sd)[2])
+lykke <- data.frame(lykke,aggregate(ess6$happy, list(ess6$cntry), length)[2])
+
+names(lykke) <- c("land", "lykke", "sd", "n")
+
+lykke$ci <- 1.96 * lykke$sd / sqrt(lykke$n)
+
+png('lykke_ci.png', height=4, width=7, units="in",res=700)
+ggplot(lykke, aes(x=reorder(land, lykke), y=lykke)) +
+  geom_point() + 
+  geom_errorbar(aes(ymin=lykke-ci, ymax=lykke+ci), width=0) +
+  xlab("") +
+  ylab("Lykkegennemsnit") +
+  theme_minimal()
+dev.off()
