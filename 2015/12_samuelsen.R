@@ -73,7 +73,7 @@ polls[polls$pollingfirm == "Megafon" & polls$month == 2 & polls$day == 19,]$samu
 png("samuelsen.png", height=5, width=5, units="in",res=700)
 ggplot(polls, aes(x=as.Date(date), y=party_i)) + 
   geom_line(stat="smooth", data=polls[polls$samuelsen==0,], size=1, se=F, colour="blue", alpha=0.7) +
-  geom_line(stat="smooth", method="loess", data=polls[polls$samuelsen==1,], size=1, se=F, colour="red", alpha=0.7) +
+  geom_line(stat="smooth", data=polls[polls$samuelsen==1,], size=1, se=F, colour="red", alpha=0.7) +
   geom_point(data=polls[polls$samuelsen==1,], size=3, colour="red", alpha=0.5) + 
   geom_point(data=polls[polls$samuelsen==0,], size=3, colour="blue", alpha=0.3) + 
   scale_x_date(breaks = date_breaks("2 months"), labels = date_format("%b")) +
