@@ -1,6 +1,14 @@
 Materiale til blogindlæg
 ---
 
+## 2017
+- [Seinfeld](http://erikgahner.dk/2017/seinfeld/) (`03-seinfeld.R`)
+
+## 2016
+- [Hvor mange vil stemme på Nye Borgerlige? #4](http://erikgahner.dk/2016/hvor-mange-vil-stemme-paa-nye-borgerlige-4/) (`11-nbfirms.R`)
+- [Hvor mange vil stemme på Nye Borgerlige? #3](http://erikgahner.dk/2016/hvor-mange-vil-stemme-paa-nye-borgerlige-3/) (`10-nyeborgerlige.R`)
+- [Er statskundskabsstuderende de mest kæphøje?](http://erikgahner.dk/2016/er-statskundskabsstuderende-de-mest-kaephoeje/) (`02-overconfidence.r`)
+
 ## 2015
 - [Hvilke meningsmålinger bliver delt?](http://erikgahner.dk/2015/hvilke-meningsmaalinger-bliver-delt/) (`12_samuelsen.R`)
 - [Er uligheden i danskernes lykke blevet større?](http://erikgahner.dk/2015/er-uligheden-i-danskernes-lykke-blevet-stoerre/) (`07_lykke.R`)
