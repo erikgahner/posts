@@ -1,7 +1,14 @@
-Materiale til blogindlæg
+Material for blog posts
 ---
 
+## 2018
+- [At what age are people considered old?](http://erikgahner.dk/2018/at-what-age-are-people-considered-old/) (`06-old-age.R`)
+- [Why you should not trust the Facebook experiment](http://erikgahner.dk/2018/why-you-should-not-trust-the-facebook-experiment/) (`05-facebook.R`)
+
 ## 2017
+- [Smittede kommunalvalget af på partiernes opbakning?](http://erikgahner.dk/2017/smittede-kommunalvalget-af-pa-partiernes-opbakning/) (`12-kv17.R`)
+- [Hvorfor styrtdykkede Dansk Folkeparti i meningsmålingerne?](http://erikgahner.dk/2017/hvorfor-styrtdykkede-dansk-folkeparti-i-meningsmalingerne/) (`09-megafon.R`)
+- [Hvor stor er Pape-effekten?](http://erikgahner.dk/2017/hvor-stor-er-pape-effekten/) (`05-pape.R`)
 - [Seinfeld](http://erikgahner.dk/2017/seinfeld/) (`03-seinfeld.R`)
 
 ## 2016
