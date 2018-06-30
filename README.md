@@ -2,6 +2,7 @@ Material for blog posts
 ---
 
 ## 2018
+- [Er Socialdemokratiet gået tilbage siden folketingsvalget?](http://erikgahner.dk/2018/er-socialdemokratiet-gaet-tilbage-siden-folketingsvalget/) (`06-socMegafon.R`)
 - [At what age are people considered old?](http://erikgahner.dk/2018/at-what-age-are-people-considered-old/) (`06-old-age.R`)
 - [Why you should not trust the Facebook experiment](http://erikgahner.dk/2018/why-you-should-not-trust-the-facebook-experiment/) (`05-facebook.R`)
 
