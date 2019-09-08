@@ -2,7 +2,7 @@ Material for blog posts
 ---
 
 ## 2018
-- [Er Socialdemokratiet g�et tilbage siden folketingsvalget?](http://erikgahner.dk/2018/er-socialdemokratiet-gaet-tilbage-siden-folketingsvalget/) (`06-socMegafon.R`)
+- [Er Socialdemokratiet gået tilbage siden folketingsvalget?](http://erikgahner.dk/2018/er-socialdemokratiet-gaet-tilbage-siden-folketingsvalget/) (`06-socMegafon.R`)
 - [At what age are people considered old?](http://erikgahner.dk/2018/at-what-age-are-people-considered-old/) (`06-old-age.R`)
 - [Why you should not trust the Facebook experiment](http://erikgahner.dk/2018/why-you-should-not-trust-the-facebook-experiment/) (`05-facebook.R`)
 
@@ -34,8 +34,8 @@ Material for blog posts
 - [Hent åbne data fra Folketinget ind i R](http://erikgahner.dk/2015/03/15/hent-aabne-data-fra-folketinget-ind-i-r/) (`03_ft_afstemning.Rmd`)
 
 ## 2014
-- [Er indvandrerne den største trussel?](http://erikgahner.dk/2014/10/28/er-indvandrerne-den-stoerste-trussel/) (`10_indvandreretrussel.R`)
+- [Er indvandrerne den st�rste trussel?](http://erikgahner.dk/2014/10/28/er-indvandrerne-den-stoerste-trussel/) (`10_indvandreretrussel.R`)
 
 ## 2013
-- [Meningsmålinger fra Wikipedia til R med XML pakken](http://erikgahner.dk/2013/12/11/meningsmalinger-fra-wikipedia-til-r-med-xml-pakken/) (`12_meningsmaalingerwikixml.R`)
-- [Kvalitetsvægtede gennemsnit af meningsmålinger og statistisk usikkerhed](http://erikgahner.dk/2013/05/02/kvalitetsvaegtede-gennemsnit-af-meningsmalinger-og-statistisk-usikkerhed/) (`05_kvalitetsvaegtet.R`)
+- [Meningsm�linger fra Wikipedia til R med XML pakken](http://erikgahner.dk/2013/12/11/meningsmalinger-fra-wikipedia-til-r-med-xml-pakken/) (`12_meningsmaalingerwikixml.R`)
+- [Kvalitetsv�gtede gennemsnit af meningsm�linger og statistisk usikkerhed](http://erikgahner.dk/2013/05/02/kvalitetsvaegtede-gennemsnit-af-meningsmalinger-og-statistisk-usikkerhed/) (`05_kvalitetsvaegtet.R`)
