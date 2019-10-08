@@ -74,3 +74,21 @@ data_worldbank %>%
 
 ggsave("wdi-unemployment.png", width = 6, height = 4)
 
+# Example: BIS
+library("BIS")
+
+## view available variables (only 22 observations; no need for a search)
+bis_list <- BIS::get_datasets() 
+bis_list %>%
+  View()
+
+## specify the name of the dataset (available in the 'name' column)
+bis_name <- "Consumer prices"
+
+## download data
+data_bis <- bis_list %>%
+  filter(name == bis_name) %>%
+  select(url) %>%
+  as.character() %>%
+  get_bis()
+
