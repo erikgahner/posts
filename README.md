@@ -7,6 +7,11 @@ Material for posts on erikgahner.dk
 | - | - | -
 | 2020-07-02 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/07-longevity_gelman.R) | [A response to Andrew Gelman](https://erikgahner.dk/2020/a-response-to-andrew-gelman/)
 | 2020-06-28 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/06-NyeBorgerligeYouGov_2.R) | [Hvor mange vil stemme på Nye Borgerlige? #9](https://erikgahner.dk/2020/hvor-mange-vil-stemme-pa-nye-borgerlige-9/)
+| 2020-05-31 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-frasier.R) | [Frasier](https://erikgahner.dk/2020/frasier/)
+| 2020-05-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-covid-tests.R) | [Regeringens overblik over COVID-19 tests](https://erikgahner.dk/2020/regeringens-overblik-over-covid-19-tests/)
+| 2020-05-17 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-NyeBorgerligeYouGov.R) | [Hvor mange vil stemme på Nye Borgerlige? #8](https://erikgahner.dk/2020/hvor-mange-vil-stemme-pa-nye-borgerlige-8/)
+| 2020-03-15 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/03-alternativet.R) | [Hvordan klarer Alternativet sig i meningsmålingerne? #2](https://erikgahner.dk/2020/hvordan-klarer-alternativet-sig-i-meningsmalingerne-2/)
+| 2020-02-20 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/02-NyeBorgerligeDF.R) | [Forurener meningsmålingerne den politiske debat?](https://erikgahner.dk/2020/forurener-meningsmalingerne-den-politiske-debat/)
 
 ## 2019
 - [Er Venstre gået frem efter EP-valget?](https://erikgahner.dk/2019/er-venstre-gaet-frem-efter-ep-valget/) (`06-venstre-EP-megafon.R`)
