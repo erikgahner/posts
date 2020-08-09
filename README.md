@@ -16,18 +16,16 @@ Material for posts on erikgahner.dk
 | 2019-12-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/12-the_sopranos.R) | [The Sopranos](https://erikgahner.dk/2019/the-sopranos/)
 | 2019-12-06 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/12-eb-responserate.R) | [Eurobarometer and Euroscepticism](https://erikgahner.dk/2019/eurobarometer-and-euroscepticism/)
 | 2019-10-05 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/10-R_intstatistics.R) | [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/)
-
-## 2019
-- [Er Venstre gået frem efter EP-valget?](https://erikgahner.dk/2019/er-venstre-gaet-frem-efter-ep-valget/) (`06-venstre-EP-megafon.R`)
-- [Blev vi oversvømmet med meningsmålinger i valgkampen?](https://erikgahner.dk/2019/blev-vi-oversvommet-med-meningsmalinger-i-valgkampen/) (`06-pollcalendar.R`)
-- [Partierne i meningsmålingerne fra 2010 til i dag](https://erikgahner.dk/2019/partierne-i-meningsmalingerne-fra-2010-til-i-dag/) (`06-meningsmaalinger-aarti.R`)
-- [Hvordan klarede meningsmålingerne sig?](https://erikgahner.dk/2019/hvordan-klarede-meningsmalingerne-sig/) (`06-fv2019polls.R`)
-- [Folketingsvalget 2019, BT og YouGov](https://erikgahner.dk/2019/folketingsvalget-2019-bt-og-yougov/) (`06-btyougov.R`)
-- [Hvor lang er valgkampen sammenlignet med tidligere valgkampe?](http://erikgahner.dk/2019/hvor-lang-er-valgkampen-sammenlignet-med-tidligere-valgkampe-2/) (`05-valgkamplaengde.R`)
-- [Hvordan vil danskerne stemme til Europa-Parlamentsvalget? #2](http://erikgahner.dk/2019/hvordan-vil-danskerne-stemme-til-europa-parlamentsvalget-2/) (`05-ep_ft_valg.R`)
-- [Hvorfor skal meningsmålinger være så præcise?](http://erikgahner.dk/2019/hvorfor-skal-meningsmalinger-vaere-sa-praecise/) (`04-usikkerhed.R`)
-- [Hvor mange vil stemme på Klaus Riskær Pedersen? #2](http://erikgahner.dk/2019/hvor-mange-vil-stemme-pa-klaus-riskaer-pedersen-2/) (`04-klaus.R`)
-- [Boganmeldelse: Oprør fra udkanten](http://erikgahner.dk/2019/boganmeldelse-opror-fra-udkanten/) (`03-fv2015.R`)
+| 2019-06-17 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/06-pollcalendar.R) | [Blev vi oversvømmet med meningsmålinger i valgkampen?](https://erikgahner.dk/2019/blev-vi-oversvommet-med-meningsmalinger-i-valgkampen/)
+| 2019-06-11 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/06-fv2019polls.R) | [Hvordan klarede meningsmålingerne sig?](https://erikgahner.dk/2019/hvordan-klarede-meningsmalingerne-sig/)
+| 2019-06-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/06-btyougov.R) | [Folketingsvalget 2019, BT og YouGov](https://erikgahner.dk/2019/folketingsvalget-2019-bt-og-yougov/)
+| 2019-06-03 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/06-meningsmaalinger-aarti.R) | [Partierne i meningsmålingerne fra 2010 til i dag](https://erikgahner.dk/2019/partierne-i-meningsmalingerne-fra-2010-til-i-dag/)
+| 2019-06-01 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/06-venstre-EP-megafon.R) | [Er Venstre gået frem efter EP-valget?](https://erikgahner.dk/2019/er-venstre-gaet-frem-efter-ep-valget/)
+| 2019-05-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/05-ep_ft_valg.R) | [Hvordan vil danskerne stemme til Europa-Parlamentsvalget? #2](http://erikgahner.dk/2019/hvordan-vil-danskerne-stemme-til-europa-parlamentsvalget-2/)
+| 2019-05-07 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/05-valgkamplaengde.R) | [Hvor lang er valgkampen sammenlignet med tidligere valgkampe?](http://erikgahner.dk/2019/hvor-lang-er-valgkampen-sammenlignet-med-tidligere-valgkampe-2/)
+| 2019-04-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/04-usikkerhed.R) | [Hvorfor skal meningsmålinger være så præcise?](http://erikgahner.dk/2019/hvorfor-skal-meningsmalinger-vaere-sa-praecise/)
+| 2019-04-03 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/04-klaus.R) | [Hvor mange vil stemme på Klaus Riskær Pedersen? #2](http://erikgahner.dk/2019/hvor-mange-vil-stemme-pa-klaus-riskaer-pedersen-2/)
+| 2019-03-28 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/03-fv2015.R) | [Boganmeldelse: Oprør fra udkanten](http://erikgahner.dk/2019/boganmeldelse-opror-fra-udkanten/)
 
 ## 2018
 - [Er de Radikale stormet frem?](http://erikgahner.dk/2018/er-de-radikale-stormet-frem/) (`10-radikale.R`)
