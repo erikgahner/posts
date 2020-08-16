@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2020-08-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/08-tall_covid19.R) | [Does being tall raise the risk of getting COVID-19?](https://erikgahner.dk/2020/does-being-tall-raise-the-risk-of-getting-covid-19/)
 | 2020-07-12 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/07-gallup4gamle.R) | [De fire gamle partier i meningsmålingerne](https://erikgahner.dk/2020/de-fire-gamle-partier-i-meningsmalingerne/)
 | 2020-07-02 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/07-longevity_gelman.R) | [A response to Andrew Gelman](https://erikgahner.dk/2020/a-response-to-andrew-gelman/)
 | 2020-06-28 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/06-NyeBorgerligeYouGov_2.R) | [Hvor mange vil stemme på Nye Borgerlige? #9](https://erikgahner.dk/2020/hvor-mange-vil-stemme-pa-nye-borgerlige-9/)
