@@ -28,18 +28,14 @@ Material for posts on erikgahner.dk
 | 2019-04-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/04-usikkerhed.R) | [Hvorfor skal meningsmålinger være så præcise?](http://erikgahner.dk/2019/hvorfor-skal-meningsmalinger-vaere-sa-praecise/)
 | 2019-04-03 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/04-klaus.R) | [Hvor mange vil stemme på Klaus Riskær Pedersen? #2](http://erikgahner.dk/2019/hvor-mange-vil-stemme-pa-klaus-riskaer-pedersen-2/)
 | 2019-03-28 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/03-fv2015.R) | [Boganmeldelse: Oprør fra udkanten](http://erikgahner.dk/2019/boganmeldelse-opror-fra-udkanten/)
-
-## 2018
-- [Er de Radikale stormet frem?](http://erikgahner.dk/2018/er-de-radikale-stormet-frem/) (`10-radikale.R`)
-- [Er Socialdemokratiet gået tilbage siden folketingsvalget?](http://erikgahner.dk/2018/er-socialdemokratiet-gaet-tilbage-siden-folketingsvalget/) (`06-socMegafon.R`)
-- [At what age are people considered old?](http://erikgahner.dk/2018/at-what-age-are-people-considered-old/) (`06-old-age.R`)
-- [Why you should not trust the Facebook experiment](http://erikgahner.dk/2018/why-you-should-not-trust-the-facebook-experiment/) (`05-facebook.R`)
-
-## 2017
-- [Smittede kommunalvalget af på partiernes opbakning?](http://erikgahner.dk/2017/smittede-kommunalvalget-af-pa-partiernes-opbakning/) (`12-kv17.R`)
-- [Hvorfor styrtdykkede Dansk Folkeparti i meningsmålingerne?](http://erikgahner.dk/2017/hvorfor-styrtdykkede-dansk-folkeparti-i-meningsmalingerne/) (`09-megafon.R`)
-- [Hvor stor er Pape-effekten?](http://erikgahner.dk/2017/hvor-stor-er-pape-effekten/) (`05-pape.R`)
-- [Seinfeld](http://erikgahner.dk/2017/seinfeld/) (`03-seinfeld.R`)
+| 2018-10-29 | [🔗](https://github.com/erikgahner/posts/blob/master/2018/10-radikale.R) | [Er de Radikale stormet frem?](http://erikgahner.dk/2018/er-de-radikale-stormet-frem/)
+| 2018-06-29 | [🔗](https://github.com/erikgahner/posts/blob/master/2018/06-socMegafon.R) | [Er Socialdemokratiet gået tilbage siden folketingsvalget?](http://erikgahner.dk/2018/er-socialdemokratiet-gaet-tilbage-siden-folketingsvalget/) 
+| 2018-06-07 | [🔗](https://github.com/erikgahner/posts/blob/master/2018/06-old-age.R) | [At what age are people considered old?](http://erikgahner.dk/2018/at-what-age-are-people-considered-old/)
+| 2018-05-12 | [🔗](https://github.com/erikgahner/posts/blob/master/2018/05-facebook.R) | [Why you should not trust the Facebook experiment](http://erikgahner.dk/2018/why-you-should-not-trust-the-facebook-experiment/)
+| 2017-12-11 | [🔗](https://github.com/erikgahner/posts/blob/master/2017/12-kv17.R) | [Smittede kommunalvalget af på partiernes opbakning?](http://erikgahner.dk/2017/smittede-kommunalvalget-af-pa-partiernes-opbakning/)
+| 2017-09-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2017/09-megafon.R) | [Hvorfor styrtdykkede Dansk Folkeparti i meningsmålingerne?](https://erikgahner.dk/2017/hvorfor-styrtdykkede-dansk-folkeparti-i-meningsmalingerne/)
+| 2017-05-26 | [🔗](https://github.com/erikgahner/posts/blob/master/2017/05-pape.R) | [Hvor stor er Pape-effekten?](https://erikgahner.dk/2017/hvor-stor-er-pape-effekten/)
+| 2017-03-24 | [🔗](https://github.com/erikgahner/posts/blob/master/2017/03-seinfeld.R) | [Seinfeld](https://erikgahner.dk/2017/seinfeld/)
 
 ## 2016
 - [Hvor mange vil stemme på Nye Borgerlige? #4](http://erikgahner.dk/2016/hvor-mange-vil-stemme-paa-nye-borgerlige-4/) (`11-nbfirms.R`)
