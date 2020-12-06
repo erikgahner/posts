@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2020-12-06 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/12-korrekt.R) | [Er meningsmålingerne i Danmark præcise?](https://erikgahner.dk/2020/er-meningsmalingerne-i-danmark-praecise/)
 | 2020-11-15 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/11-respondenter.R) | [Hvorfor er flere respondenter ikke nødvendigvis bedre? #2](https://erikgahner.dk/2020/hvorfor-er-flere-respondenter-ikke-nodvendigvis-bedre-2/)
 | 2020-11-01 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/11-honesty.R) | [Honesty may still pay off in politics](https://erikgahner.dk/2020/honesty-may-still-pay-off-in-politics/)
 | 2020-10-25 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/10-veganerpartiet.R) | [Hvor mange vil stemme på Veganerpartiet?](https://erikgahner.dk/2020/hvor-mange-vil-stemme-pa-veganerpartiet/)
