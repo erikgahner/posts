@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2021-01-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/01-overlap_text.R) | [How to improve your figures #2: Don’t show overlapping text labels](https://erikgahner.dk/2021/how-to-improve-your-figures-2-dont-show-overlapping-text-labels/)
 | 2020-12-13 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/12-praecismaaling.R) | [Hvorfor skal meningsmålinger være så præcise? #2](https://erikgahner.dk/2020/hvorfor-skal-meningsmalinger-vaere-sa-praecise-2/)
 | 2020-12-06 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/12-korrekt.R) | [Er meningsmålingerne i Danmark præcise?](https://erikgahner.dk/2020/er-meningsmalingerne-i-danmark-praecise/)
 | 2020-11-15 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/11-respondenter.R) | [Hvorfor er flere respondenter ikke nødvendigvis bedre? #2](https://erikgahner.dk/2020/hvorfor-er-flere-respondenter-ikke-nodvendigvis-bedre-2/)
