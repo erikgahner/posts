@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2021-04-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/04-venstreopbakning.R) | [Hvor lav er opbakningen til Venstre? #2](https://erikgahner.dk/2021/hvor-lav-er-opbakningen-til-venstre-2/)
 | 2021-03-14 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/03-tengreatRfunctions.R) | [Ten great R functions](https://erikgahner.dk/2021/ten-great-r-functions/)
 | 2021-01-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/01-overlap_text.R) | [How to improve your figures #2: Don’t show overlapping text labels](https://erikgahner.dk/2021/how-to-improve-your-figures-2-dont-show-overlapping-text-labels/)
 | 2020-12-13 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/12-praecismaaling.R) | [Hvorfor skal meningsmålinger være så præcise? #2](https://erikgahner.dk/2020/hvorfor-skal-meningsmalinger-vaere-sa-praecise-2/)
