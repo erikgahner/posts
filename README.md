@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2021-06-27 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/06-3dcharts) | [How to improve your figures #7: Don’t use a third dimension ](https://erikgahner.dk/2021/how-to-improve-your-figures-7-dont-use-a-third-dimension/)
 | 2021-05-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/05-piecharts.R) | [How to improve your figures #5: Don’t use pie charts](https://erikgahner.dk/2021/how-to-improve-your-figures-5-dont-use-pie-charts/)
 | 2021-04-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/04-ties.R) | [A problem with survey data when studying social media](https://erikgahner.dk/2021/a-problem-with-survey-data-when-studying-social-media/)
 | 2021-04-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/04-venstreopbakning.R) | [Hvor lav er opbakningen til Venstre? #2](https://erikgahner.dk/2021/hvor-lav-er-opbakningen-til-venstre-2/)
