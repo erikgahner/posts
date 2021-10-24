@@ -1,0 +1,156 @@
+company,trip_origin,trip_via,trip_destination,class,kg,price_amount,price_currency
+atmosfair,LHR,N/A,JFK,Economy,1363,32,EUR
+atmosfair,LHR,N/A,AMS,Economy,84,5,EUR
+atmosfair,LHR,AMS,JFK,Economy,1730,43,EUR
+atmosfair,LHR,N/A,JFK,Business,2556,59,EUR
+atmosfair,LHR,N/A,AMS,Business,158,5,EUR
+atmosfair,LHR,AMS,JFK,Business,2627,62,EUR
+atmosfair,LHR,N/A,JFK,First,3408,79,EUR
+atmosfair,LHR,N/A,AMS,First,210,5,EUR
+atmosfair,LHR,AMS,JFK,First,3502,81,EUR
+atmosfair,LHR,N/A,JFK,Premium Economy,1738,40,EUR
+atmosfair,LHR,N/A,AMS,Premium Economy,107,5,EUR
+atmosfair,LHR,AMS,JFK,Premium Economy,1786,44,EUR
+C-Level,LHR,N/A,JFK,Economy,890,12.72,GBP
+C-Level,LHR,N/A,AMS,Economy,110,1.59,GBP
+C-Level,LHR,N/A,JFK,Premium Economy,890,12.72,GBP
+C-Level,LHR,N/A,AMS,Premium Economy,110,1.59,GBP
+C-Level,LHR,N/A,JFK,Business,1330,19.08,GBP
+C-Level,LHR,N/A,AMS,Business,110,1.59,GBP
+C-Level,LHR,N/A,JFK,First,1330,19.08,GBP
+C-Level,LHR,N/A,AMS,First,110,1.59,GBP
+Carbon Footprint,LHR,N/A,JFK,Economy,810,4.86,GBP
+Carbon Footprint,LHR,N/A,AMS,Economy,60,2,GBP
+Carbon Footprint,LHR,AMS,JFK,Economy,871,5.23,GBP
+Carbon Footprint,LHR,N/A,JFK,Business,2349,14.09,GBP
+Carbon Footprint,LHR,N/A,AMS,Business,85,2,GBP
+Carbon Footprint,LHR,AMS,JFK,Business,2447,14.68,GBP
+Carbon Footprint,LHR,N/A,JFK,First,3239,19.43,GBP
+Carbon Footprint,LHR,N/A,AMS,First,85,2,GBP
+Carbon Footprint,LHR,AMS,JFK,First,3343,20.06,GBP
+Carbon Footprint,LHR,N/A,JFK,Premium Economy,1296,7.78,GBP
+Carbon Footprint,LHR,N/A,AMS,Premium Economy,57,2,GBP
+Carbon Footprint,LHR,AMS,JFK,Premium Economy,1360,8.16,GBP
+Carbon Habitat,LHR,N/A,JFK,Economy,1130,18.08,EUR
+Carbon Habitat,LHR,N/A,AMS,Economy,110,1.76,EUR
+Carbon Habitat,LHR,N/A,JFK,Business,1740,27.84,EUR
+Carbon Habitat,LHR,N/A,AMS,Business,170,2.72,EUR
+Carbon Habitat,LHR,N/A,JFK,First,2860,45.76,EUR
+Carbon Habitat,LHR,N/A,AMS,First,280,4.48,EUR
+Clear,LHR,N/A,JFK,Economy,860,12.83,GBP
+Clear,LHR,N/A,AMS,Economy,100,1.51,GBP
+Clear,LHR,AMS,JFK,Economy,960,14.4,GBP
+Clear,LHR,N/A,JFK,Premium Economy,1370,20.53,GBP
+Clear,LHR,N/A,AMS,Premium Economy,100,1.51,GBP
+Clear,LHR,AMS,JFK,Premium Economy,1540,23.04,GBP
+Clear,LHR,N/A,JFK,Business,2480,37.2,GBP
+Clear,LHR,N/A,AMS,Business,170,2.49,GBP
+Clear,LHR,AMS,JFK,Business,2790,41.76,GBP
+Clear,LHR,N/A,JFK,First,3420,51.31,GBP
+Clear,LHR,N/A,AMS,First,230,3.43,GBP
+Clear,LHR,AMS,JFK,First,3840,57.59,GBP
+ClimateCare,LHR,N/A,JFK,Economy,830,7.05,GBP
+ClimateCare,LHR,N/A,AMS,Economy,90,0.8,GBP
+ClimateCare,LHR,AMS,JFK,Economy,930,7.92,GBP
+ClimateCare,LHR,N/A,JFK,Business,2410,20.46,GBP
+ClimateCare,LHR,N/A,AMS,Business,90,0.8,GBP
+ClimateCare,LHR,AMS,JFK,Business,2700,22.96,GBP
+ClimateCare,LHR,N/A,JFK,First,3320,28.22,GBP
+ClimateCare,LHR,N/A,AMS,First,90,0.8,GBP
+ClimateCare,LHR,AMS,JFK,First,3730,31.67,GBP
+Co2nsensus,LHR,N/A,JFK,Economy,921,14.93,USD
+Co2nsensus,LHR,N/A,AMS,Economy,65,1.57,USD
+Co2nsensus,LHR,N/A,JFK,Business,2670,41.65,USD
+Co2nsensus,LHR,N/A,AMS,Business,97,2.07,USD
+CredibleCarbon,LHR,N/A,JFK,N/A,610,3.69,GBP
+CredibleCarbon,LHR,N/A,AMS,N/A,60,0.34,GBP
+Ecosphere+,LHR,N/A,JFK,Economy,830,8.3,GBP
+Ecosphere+,LHR,N/A,AMS,Economy,90,0.94,GBP
+Ecosphere+,LHR,AMS,JFK,Economy,930,9.31,GBP
+Ecosphere+,LHR,N/A,JFK,Business,2410,24.07,GBP
+Ecosphere+,LHR,N/A,AMS,Business,90,0.94,GBP
+Ecosphere+,LHR,AMS,JFK,Business,2700,27.01,GBP
+Ecosphere+,LHR,N/A,JFK,First,3320,33.2,GBP
+Ecosphere+,LHR,N/A,AMS,First,90,0.94,GBP
+Ecosphere+,LHR,AMS,JFK,First,3730,37.26,GBP
+GoodPlanet,LHR,N/A,JFK,N/A,1360,30,EUR
+GoodPlanet,LHR,N/A,AMS,N/A,160,3.55,EUR
+GoodPlanet,LHR,AMS,JFK,N/A,1340,29.57,EUR
+Greentripper,LHR,N/A,JFK,Economy,1000,12.11,EUR
+Greentripper,LHR,N/A,AMS,Economy,80,1.02,EUR
+Greentripper,LHR,AMS,JFK,Economy,1140,13.82,EUR
+Greentripper,LHR,N/A,JFK,Premium Economy,1590,19.21,EUR
+Greentripper,LHR,N/A,AMS,Premium Economy,130,1.63,EUR
+Greentripper,LHR,AMS,JFK,Premium Economy,1810,21.9,EUR
+Greentripper,LHR,N/A,JFK,Business,2170,26.31,EUR
+Greentripper,LHR,N/A,AMS,Business,180,2.24,EUR
+Greentripper,LHR,AMS,JFK,Business,2480,30.01,EUR
+Greentripper,LHR,N/A,JFK,First,3290,39.75,EUR
+Greentripper,LHR,N/A,AMS,First,280,3.36,EUR
+Greentripper,LHR,AMS,JFK,First,3750,45.33,EUR
+Leapfrog,LHR,N/A,JFK,Economy,430,2.62,GBP
+Leapfrog,LHR,N/A,AMS,Economy,30,1,GBP
+Leapfrog,LHR,AMS,JFK,Economy,460,2.78,GBP
+Leapfrog,LHR,N/A,JFK,Premium Economy,680,3.97,GBP
+Leapfrog,LHR,N/A,AMS,Premium Economy,30,1,GBP
+Leapfrog,LHR,AMS,JFK,Premium Economy,720,4.19,GBP
+Leapfrog,LHR,N/A,JFK,Business,1240,7,GBP
+Leapfrog,LHR,N/A,AMS,Business,40,1,GBP
+Leapfrog,LHR,AMS,JFK,Business,1290,7.27,GBP
+Leapfrog,LHR,N/A,JFK,First,1710,9.53,GBP
+Leapfrog,LHR,N/A,AMS,First,40,1,GBP
+Leapfrog,LHR,AMS,JFK,First,1770,9.86,GBP
+myclimate,LHR,N/A,JFK,Economy,900,19,GBP
+myclimate,LHR,N/A,AMS,Economy,130,3,GBP
+myclimate,LHR,AMS,JFK,Economy,1100,23,GBP
+myclimate,LHR,N/A,JFK,Business,1700,36,GBP
+myclimate,LHR,N/A,AMS,Business,167,4,GBP
+myclimate,LHR,AMS,JFK,Business,2000,42,GBP
+myclimate,LHR,N/A,JFK,First,2700,57,GBP
+myclimate,LHR,N/A,AMS,First,308,7,GBP
+myclimate,LHR,AMS,JFK,First,3100,66,GBP
+Offsetters,LHR,N/A,JFK,Economy,900,18,CAD
+Offsetters,LHR,N/A,AMS,Economy,100,2,CAD
+Offsetters,LHR,AMS,JFK,Economy,1050,21,CAD
+Offsetters,LHR,N/A,JFK,Business,2610,52.2,CAD
+Offsetters,LHR,N/A,AMS,Business,100,2,CAD
+Offsetters,LHR,AMS,JFK,Business,2860,57.2,CAD
+Offsetters,LHR,N/A,JFK,First,3600,72,CAD
+Offsetters,LHR,N/A,AMS,First,100,2,CAD
+Offsetters,LHR,AMS,JFK,First,3910,78.2,CAD
+South Pole,LHR,N/A,JFK,Economy,900,8.1,EUR
+South Pole,LHR,N/A,AMS,Economy,100.45,4.5,EUR
+South Pole,LHR,N/A,JFK,Business,2610,23.49,EUR
+South Pole,LHR,N/A,AMS,Business,100.45,4.5,EUR
+South Pole,LHR,N/A,JFK,First,3600,32.4,EUR
+South Pole,LHR,N/A,AMS,First,100.45,4.5,EUR
+South Pole,LHR,N/A,JFK,Premium Economy,1440,12.96,EUR
+South Pole,LHR,N/A,AMS,Premium Economy,100.45,4.5,EUR
+TerraPass,LHR,N/A,JFK,N/A,1009,11.1,USD
+TerraPass,LHR,N/A,AMS,N/A,204,2.25,USD
+World Land Trust,LHR,N/A,JFK,Economy,830,12.45,GBP
+World Land Trust,LHR,N/A,AMS,N/A,90,1.42,GBP
+World Land Trust,LHR,AMS,JFK,Economy,930,13.97,GBP
+World Land Trust,LHR,N/A,JFK,Premium Economy,1330,19.92,GBP
+World Land Trust,LHR,AMS,JFK,Premium Economy,1490,22.35,GBP
+World Land Trust,LHR,N/A,JFK,Business,2410,36.1,GBP
+World Land Trust,LHR,AMS,JFK,Business,2700,40.52,GBP
+World Land Trust,LHR,N/A,JFK,First,3320,49.79,GBP
+World Land Trust,LHR,AMS,JFK,First,3730,55.88,GBP
+Wren,LHR,N/A,JFK,Economy,1350,14.93,GBP
+Wren,LHR,N/A,AMS,Economy,60,0.69,GBP
+Wren,LHR,N/A,JFK,Premium Economy,1650,18.19,GBP
+Wren,LHR,N/A,AMS,Premium Economy,80,0.85,GBP
+Wren,LHR,N/A,JFK,Business,3410,37.67,GBP
+Wren,LHR,N/A,AMS,Business,160,1.74,GBP
+Wren,LHR,N/A,JFK,First,7900,87.17,GBP
+Wren,LHR,N/A,AMS,First,370,4.05,GBP
+Zeromission,LHR,N/A,JFK,Economy,900,22,EUR
+Zeromission,LHR,N/A,AMS,Economy,130,3,EUR
+Zeromission,LHR,AMS,JFK,Economy,1100,26,EUR
+Zeromission,LHR,N/A,JFK,Business,1700,41,EUR
+Zeromission,LHR,N/A,AMS,Business,167,4,EUR
+Zeromission,LHR,AMS,JFK,Business,2000,47,EUR
+Zeromission,LHR,N/A,JFK,First,2700,64,EUR
+Zeromission,LHR,N/A,AMS,First,308,7,EUR
+Zeromission,LHR,AMS,JFK,First,3100,75,EUR

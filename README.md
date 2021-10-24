@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2021-10-24 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/10-carboncalculator.R) | [The reliability of flight emission calculators](https://erikgahner.dk/2021/the-reliability-of-flight-emission-calculators/)
 | 2021-09-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/09-megafon.R) | [Er Socialdemokratiet gået tilbage i meningsmålingerne? #4](https://erikgahner.dk/2021/er-socialdemokratiet-gaet-tilbage-i-meningsmalingerne-4/)
 | 2021-08-29 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/08-happydanes.R) | [Happy Danes](https://erikgahner.dk/2021/happy-danes/)
 | 2021-07-25 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/07-waffle.R) | [How to improve your figures #8: Make probabilities tangible](https://erikgahner.dk/2021/how-to-improve-your-figures-8-make-probabilities-tangible/)
