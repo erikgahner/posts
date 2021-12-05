@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2021-12-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/12-kvkvalitet.R) | [Kvaliteten af meningsmålingerne ved kommunalvalget #2](https://erikgahner.dk/2021/kvaliteten-af-meningsmalingerne-ved-kommunalvalget-2/)
 | 2021-11-27 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/11-brixtofte.R) | [Brixtofte-skandalens effekt på den offentlige opinion](https://erikgahner.dk/2021/brixtofte-skandalens-effekt-pa-den-offentlige-opinion/)
 | 2021-11-14 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/11-kvpolls.R) | [Meningsmålinger og kommunalvalg #2](https://erikgahner.dk/2021/meningsmalinger-og-kommunalvalg-2/)
 | 2021-10-24 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/10-carboncalculator.R) | [The reliability of flight emission calculators](https://erikgahner.dk/2021/the-reliability-of-flight-emission-calculators/)
