@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-01-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/01-dynamisk_poll.R) | [Meningsmålinger på Politologi.dk #3](https://erikgahner.dk/2022/meningsmalinger-pa-politologi-dk-3/)
 | 2021-12-19 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/12-coronarestriktioner.R) | [Visualisering af støtte til forskellige coronarestriktioner](https://erikgahner.dk/2021/visualisering-af-stotte-til-forskellige-coronarestriktioner/)
 | 2021-12-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/12-kvkvalitet.R) | [Kvaliteten af meningsmålingerne ved kommunalvalget #2](https://erikgahner.dk/2021/kvaliteten-af-meningsmalingerne-ved-kommunalvalget-2/)
 | 2021-11-27 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/11-brixtofte.R) | [Brixtofte-skandalens effekt på den offentlige opinion](https://erikgahner.dk/2021/brixtofte-skandalens-effekt-pa-den-offentlige-opinion/)
