@@ -1,5 +1,5 @@
-# R script for ""
-# URL: 
+# R script for "Meningsmålinger på Politologi.dk #3"
+# URL: https://erikgahner.dk/2022/meningsmalinger-pa-politologi-dk-3/
 
 library("tidyverse")
 library("lubridate")
