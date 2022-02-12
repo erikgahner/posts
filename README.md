@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-02-12 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-sehoer.R) | [Datavisualisering: Se & Hør-pigen](https://erikgahner.dk/2022/datavisualisering-se-hoer-pigen/)
 | 2022-01-30 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/01-ess_news.R) | [Book Review: Stop Reading the News](https://erikgahner.dk/2022/book-review-stop-reading-the-news/)
 | 2022-01-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/01-dynamisk_poll.R) | [Meningsmålinger på Politologi.dk #3](https://erikgahner.dk/2022/meningsmalinger-pa-politologi-dk-3/)
 | 2021-12-19 | [🔗](https://github.com/erikgahner/posts/blob/master/2021/12-coronarestriktioner.R) | [Visualisering af støtte til forskellige coronarestriktioner](https://erikgahner.dk/2021/visualisering-af-stotte-til-forskellige-coronarestriktioner/)
