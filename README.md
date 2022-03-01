@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-02-26 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-frie_groenne.R) | [Hvor mange vil stemme på Frie Grønne?](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-frie-gronne/)
 | 2022-02-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-forrt.R) | [Open and Reproducible Research Glossary](https://erikgahner.dk/2022/open-and-reproducible-research-glossary/)
 | 2022-02-20 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-frasier_2.R) | [Frasier #2](https://erikgahner.dk/2022/frasier-2/)
 | 2022-02-19 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-nudge.R) | [How effective is nudging? #2](https://erikgahner.dk/2022/how-effective-is-nudging-2/)
