@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-06-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-forsvarsforbeholdet.R) | [Hvor gode var meningsmålingerne om forsvarsforbeholdet?](https://erikgahner.dk/2022/hvor-gode-var-meningsmalingerne-om-forsvarsforbeholdet/)
 | 2022-05-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/05-dmi.R) | [Årets første sommerdag](https://erikgahner.dk/2022/arets-forste-sommerdag/)
 | 2022-02-26 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-frie_groenne.R) | [Hvor mange vil stemme på Frie Grønne?](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-frie-gronne/)
 | 2022-02-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/02-forrt.R) | [Open and Reproducible Research Glossary](https://erikgahner.dk/2022/open-and-reproducible-research-glossary/)
