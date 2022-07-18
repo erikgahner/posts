@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-06-25 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-breakingbad.R) | [Breaking Bad bliver bedre #2](https://erikgahner.dk/2022/breaking-bad-bliver-bedre-2/)
 | 2022-06-18 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-nb.R) | [Hvor mange vil stemme på Nye Borgerlige? #11](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-nye-borgerlige-11/)
 | 2022-06-12 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-age_old.R) | [At what age are people considered old? #2](https://erikgahner.dk/2022/at-what-age-are-people-considered-old-2/)
 | 2022-06-04 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-forsvarsforbeholdet.R) | [Hvor gode var meningsmålingerne om forsvarsforbeholdet?](https://erikgahner.dk/2022/hvor-gode-var-meningsmalingerne-om-forsvarsforbeholdet/)
