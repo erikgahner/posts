@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-09-25 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/09-big_five.R) | [How to improve your figures #11: Do not repeat information](https://erikgahner.dk/2022/how-to-improve-your-figures-11-do-not-repeat-information/)
 | 2022-09-11 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/09-links.R) | [My favourite links](https://erikgahner.dk/2022/my-favourite-links/)
 | 2022-06-25 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-breakingbad.R) | [Breaking Bad bliver bedre #2](https://erikgahner.dk/2022/breaking-bad-bliver-bedre-2/)
 | 2022-06-18 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/06-nb.R) | [Hvor mange vil stemme på Nye Borgerlige? #11](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-nye-borgerlige-11/)
