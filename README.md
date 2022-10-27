@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-10-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-venstre.R) | [Venstre og andre partier i meningsmålingerne](https://erikgahner.dk/2022/venstre-og-andre-partier-i-meningsmalingerne/)
 | 2022-10-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-zoom_polls.R) | [Visualisering af meningsmålinger over tid](https://erikgahner.dk/2022/visualisering-af-meningsmalinger-over-tid/)
 | 2022-10-13 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-alternativet_3perioder.R) | [Hvordan klarer Alternativet sig i meningsmålingerne? #3](https://erikgahner.dk/2022/hvordan-klarer-alternativet-sig-i-meningsmalingerne-3/)
 | 2022-10-05 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-valgkamp_laengde.R) | [Hvor lang er valgkampen sammenlignet med tidligere valgkampe? #3](https://erikgahner.dk/2022/hvor-lang-er-valgkampen-sammenlignet-med-tidligere-valgkampe-3/)
