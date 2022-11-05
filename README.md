@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-10-29 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-veganerpartiet.R) | [Hvor mange vil stemme på Veganerpartiet? #2](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-veganerpartiet-2/)
 | 2022-10-26 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-blok.R) | [Visualisering af politiske blokke i meningsmålingerne](https://erikgahner.dk/2022/visualisering-af-politiske-blokke-i-meningsmalingerne/)
 | 2022-10-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-venstre.R) | [Venstre og andre partier i meningsmålingerne](https://erikgahner.dk/2022/venstre-og-andre-partier-i-meningsmalingerne/)
 | 2022-10-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-zoom_polls.R) | [Visualisering af meningsmålinger over tid](https://erikgahner.dk/2022/visualisering-af-meningsmalinger-over-tid/)
