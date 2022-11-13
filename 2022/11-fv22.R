@@ -1,3 +1,6 @@
+# R script for "Hvordan klarede meningsmålingerne sig? #2"
+# URL: https://erikgahner.dk/2022/hvordan-klarede-meningsmalingerne-sig-2/
+
 library("tidyverse")
 
 fv_raw <- read_csv("11-fv22.csv")
