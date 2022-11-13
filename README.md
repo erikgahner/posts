@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-11-06 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/11-fv22.R) | [Hvordan klarede meningsmålingerne sig? #2](https://erikgahner.dk/2022/hvordan-klarede-meningsmalingerne-sig-2/)
 | 2022-10-31 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-usikkerhed.R) | [Statistisk usikkerhed i meningsmålingerne](https://erikgahner.dk/2022/statistisk-usikkerhed-i-meningsmalingerne/)
 | 2022-10-29 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-veganerpartiet.R) | [Hvor mange vil stemme på Veganerpartiet? #2](https://erikgahner.dk/2022/hvor-mange-vil-stemme-pa-veganerpartiet-2/)
 | 2022-10-26 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/10-blok.R) | [Visualisering af politiske blokke i meningsmålingerne](https://erikgahner.dk/2022/visualisering-af-politiske-blokke-i-meningsmalingerne/)
