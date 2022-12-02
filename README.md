@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-12-02 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-poll_table.R) | [Tabel med meningsmåling i R](https://erikgahner.dk/2022/tabel-med-meningsmaling-i-r/)
 | 2022-11-27 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/11-rect_usikkerhed.R) | [Statistisk usikkerhed med mønster i R](https://erikgahner.dk/2022/statistisk-usikkerhed-med-monster-i-r/)
 | 2022-11-17 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/11-vox.R) | [Donald Trump’s defeat and electoral contagion](https://erikgahner.dk/2022/donald-trumps-defeat-and-electoral-contagion/)
 | 2022-11-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/11-ft22_resultat.R) | [Tabel med valgresultatet i R](https://erikgahner.dk/2022/tabel-med-valgresultatet-i-r/)
