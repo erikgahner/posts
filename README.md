@@ -59,6 +59,7 @@ Material for posts on erikgahner.dk
 | 2020-05-31 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-frasier.R) | [Frasier](https://erikgahner.dk/2020/frasier/)
 | 2020-05-22 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-covid-tests.R) | [Regeringens overblik over COVID-19 tests](https://erikgahner.dk/2020/regeringens-overblik-over-covid-19-tests/)
 | 2020-05-17 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/05-NyeBorgerligeYouGov.R) | [Hvor mange vil stemme på Nye Borgerlige? #8](https://erikgahner.dk/2020/hvor-mange-vil-stemme-pa-nye-borgerlige-8/)
+| 2020-03-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/03-spurioessammenhaeng.R) | [Spuriøs sammenhæng](https://erikgahner.dk/2020/spurios-sammenhaeng/)
 | 2020-03-15 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/03-alternativet.R) | [Hvordan klarer Alternativet sig i meningsmålingerne? #2](https://erikgahner.dk/2020/hvordan-klarer-alternativet-sig-i-meningsmalingerne-2/)
 | 2020-02-20 | [🔗](https://github.com/erikgahner/posts/blob/master/2020/02-NyeBorgerligeDF.R) | [Forurener meningsmålingerne den politiske debat?](https://erikgahner.dk/2020/forurener-meningsmalingerne-den-politiske-debat/)
 | 2019-12-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2019/12-the_sopranos.R) | [The Sopranos](https://erikgahner.dk/2019/the-sopranos/)
