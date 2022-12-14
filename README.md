@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-12-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-poldata.R) | [A dataset with political datasets #2](https://erikgahner.dk/2022/a-dataset-with-political-datasets-2/)
 | 2022-12-07 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-barChartRace.R) | [Opbakningen til de fire gamle partier, 1953-2022](https://erikgahner.dk/2022/opbakningen-til-de-fire-gamle-partier-1953-2022/)
 | 2022-12-02 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-poll_table.R) | [Tabel med meningsmåling i R](https://erikgahner.dk/2022/tabel-med-meningsmaling-i-r/)
 | 2022-11-27 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/11-rect_usikkerhed.R) | [Statistisk usikkerhed med mønster i R](https://erikgahner.dk/2022/statistisk-usikkerhed-med-monster-i-r/)
