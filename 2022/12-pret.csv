@@ -1,0 +1,66 @@
+name,address,postcode,staff_male,quality_service,quality_atmosphere,quality_size,quality_seating,wifi_availability,wifi_ping,wifi_download,wifi_upload
+100 Liverpool Street,"London, 100 Liverpool Street Unit LG4, 100 Liverpool Street, Liverpool Street Station",EC2M 2RH,0,7,5,6,6,1,9,13.04,7.98
+231 Camden High Street,231 Camden High Street,NW1 7BU,1,7,7,8,8,0,NA,NA,NA
+Aldgate,85 Aldgate High Street London,EC3N 1LH,0,6,5,5,6,1,38,3.6,0
+Aldgate East Tube,1 Commercial Street London,E1 6BF,0,8,4,8,7,1,147,6.99,0.45
+America Square,3 America Square London,EC3N 2LR,0,5,2,4,2,1,42,6.89,0.5
+Bankside,2 Canvey Street London,SE1 9AN,0,6,3,3,3,1,36,4.36,0.67
+Bethnal Green Road,121 Bethnal Green Road London,E2 7DG,0,6,4,4,4,1,45,0.71,0
+Bishopsgate 192,192 Bishopsgate London,EC2M 4NR,1,6,2,2,1,1,67,5.75,0
+Bishopsgate 55,55 Bishopsgate London,EC2N 3AS,0,8,8,9,8,1,36,6.64,0.64
+Blackfriars Road,157-168 Blackfriars Road London,SE1 8EZ,1,7,7,8,8,1,20,12.95,0.49
+Blackfriars Road 240,240 Blackfriars Road London,SE1 8NW,1,7,7,9,9,1,13,12.71,0.77
+Blackfriars Station Petit Pret,"Blackfriars Bridge, London",EC4V 4DD,0,7,2,1,1,0,NA,NA,NA
+Borough High Street 11,11-15 Borough High Street London,SE1 9SE,1,6,6,8,7,1,108,13.13,0
+Borough High Street 167,167 Borough High Street London,SE1 1HR,1,7,5,8,7,1,78,13.34,0.53
+Bow Lane 49,49-52 Bow Lane London,EC4M 9DJ,0,9,9,10,10,1,25,13.52,0.67
+Buckingham Palace Road,92 Buckingham Palace Road London,SW1W 0SS,0,6,3,4,3,1,33,10.36,0.51
+Cannon Street,52-54 Cannon Street London,EC4N 6LY,0,7,6,6,7,1,35,12.57,0.27
+Cheapside 141,141 Cheapside London,EC2V 6BJ,0,7,3,2,3,1,38,6.05,0.74
+Cullum Street,"Unit C, Fountain House 125-135 Fenchurch Street London",EC3M 5DJ,0,7,6,4,6,1,29,11.86,0.5
+Dalston,"Western Curve, Kingsland High Street, Dalston, London",E8 2JS,1,7,7,8,6,0,NA,NA,NA
+Eastcastle Street,49 Eastcastle Street London,W1W 8DZ,1,7,7,8,8,1,18,12.14,0.72
+Eastcheap 19,19 Eastcheap London,EC3M 1BU,1,6,5,6,6,1,25,12.39,0.46
+Eldon Street,17 Eldon Street London,EC2M 7LA,1,5,3,2,2,1,17,7.76,0.6
+"Eurostar, St Pancras","Unit 29, Eurostar Departure Lounge",NW1 2QP,0,7,3,5,4,0,NA,NA,NA
+Fenchurch Avenue,28 Fenchurch Avenue London,EC3M 5AD,1,9,8,8,8,1,30,6.49,0.48
+Fenchurch St 65 Veggie,65 Fenchurch Street London London,EC3M 4BE,1,6,6,5,5,1,18,13.14,0.43
+Fenchurch Street,Vitro Building 62-63 Fenchurch Street London,EC3M 4AQ,1,7,4,2,2,1,14,9.78,0.53
+Gatwick North Terminal,Gatwick,RH6 0NP,1,7,3,8,4,0,NA,NA,NA
+"Gatwick, South Terminal","South Terminal International Departure Lounge Unit ACU06, Crawley",RH6 ONP,1,7,4,7,6,1,26,22.41,22.76
+Gracechurch Street,77-80 Gracechurch Street London,EC3V 0AS,0,6,6,7,6,1,28,14.15,0.47
+Great Eastern Street,"57, Great Eastern Street London",EC2A 3QD,0,7,6,2,3,1,39,9.86,0.44
+High Holborn 125,125 High Holborn London,WC1V 6AN,0,7,7,8,8,1,35,10.55,0
+High Holborn 280,280 High Holborn London,WC1V 7EE,1,6,6,10,8,1,20,13.77,0.6
+Houndsditch,133 Houndsditch London,EC3A 7BX,0,10,10,10,10,1,24,11.75,0.53
+Islington N1,Vitro Building 62-63 Fenchurch Street London,N1 0PS,0,7,6,3,5,1,1051,2.88,0.41
+King William Street,43 King William Street London,EC4R 9AN,0,8,9,9,10,1,22,12.87,0.59
+Liverpool Street 19,19 - 20 Liverpool Street London London,EC2M 7PD,1,7,3,1,2,1,32,13.75,0.51
+London Wall,165-166 London Wall London,EC2M 5QD,1,7,7,7,8,1,28,8.13,0.53
+Long Acre,65 Long Acre London,WC2E 9JD,0,7,4,5,5,1,44,5.48,0
+Ludgate Hill,19-21 Ludgate Hill London,EC4M 7AE,0,7,2,2,2,0,NA,NA,NA
+Mansell Street,21 Mansell Street London,E1 8AA,0,6,8,9,9,1,24,8.01,0.54
+Marble Arch,556 Oxford St London,W1C 1LZ,0,6,4,4,6,1,40,8.23,0.56
+Moorgate,Unit 3 Moorgate Halls 143 171 Moorgate London,EC2M 6XB,0,4,4,3,2,1,17,11.93,0.63
+New Bridge Street,101 New Bridge Street London,EC4V 6JJ,0,4,4,5,4,1,23,11.48,0.55
+Old Broad Street 125,125 Old Broad Street London,EC2N 1DW,0,5,6,6,7,1,12,6.29,0.66
+Paddington 10,4 Sheldon Square Unit 8 Terrace Level London,W2 6EZ,0,6,8,7,7,1,43,4.53,0.21
+Paternoster Square,Unit 1 10 Paternoster Square London,EC4M 7DY,1,8,5,4,3,1,20,9.98,0.58
+Queen Street 90,90 Queen Street London,EC4N 1SA,0,6,7,9,9,1,87,1.81,0.54
+Queen Victoria Street,Old Change House 128 Queen Victoria Street London,EC4V 4BY,0,7,7,7,6,1,35,11.17,0.4
+Riverside,"Unit 3, 2A Southwark Bridge Road Bankside London",SE1 9HA,1,6,5,5,6,1,19,7.8,0.56
+Ropemaker Street,Unit 3 City Point London,EC2Y 9AW,1,5,5,6,6,1,41,3.68,0.68
+Shelton Street,37 Shelton Street London,WC2H 9HN,0,6,5,7,6,1,26,11.9,0.58
+Shoreditch High Street 192,192 Shoreditch High Street London,E1 6HU,0,8,4,3,2,1,28,12.54,0.56
+St Botolph,"The St Botolphs Building 2 White Kennett Street, London",E1 7BS,1,7,7,7,6,1,25,11.49,0.76
+St Mary Axe,25 St. Mary Axe London,EC3A 8AA,0,7,5,5,5,1,26,9.14,0
+St Mary Axe Veggie,"Exchequer Court, 33 St Mary Axe, London",EC3A 8AA,0,7,6,4,4,1,32,13.75,0.48
+St Pancras International,"The Circle, St Pancras International Retail Unit 26 & 27, London",N1C 4QP,1,7,5,5,4,0,NA,NA,NA
+Stamford Street,58-60 Stamford Street London,SE1 9LX,0,4,5,3,5,1,32,0.46,0.36
+Stansted Airport,"Unit ACS9 International Departure Lounge, Stansted",CM24 1RW,0,7,6,6,6,0,NA,NA,NA
+Stoney Street,40 Stoney Street London,SE1 9LB,0,7,5,5,5,1,13,11.48,0
+Strand 88,87-88 Strand London,WC2R ODW,0,5,4,7,6,1,18,13.34,0.56
+Thomas More Square,Retail Unit 1 Thomas More Square London,E1W 1YN,0,8,9,10,10,1,544,13.6,0.66
+Tothill Street,49 Tothill Street London,SW1H 9LQ,1,8,6,6,5,1,454,5.11,0.52
+Victoria Place,Unit 2 London,SW1W 1SJ,0,6,4,6,4,0,28,9.07,0.42
+Whitecross Street,"Unit 1, City Shopping Centre Whitecross Street London",EC1Y 8NX,0,6,7,7,7,1,18,7.83,0.62
