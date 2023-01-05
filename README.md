@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2022-12-31 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-poliscieffects.R) | [Effect sizes in political science](https://erikgahner.dk/2022/effect-sizes-in-political-science/)
 | 2022-12-24 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-pret.R) | [Pret a Manger](https://erikgahner.dk/2022/pret-a-manger/)
 | 2022-12-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-imdb_leastrated.R) | [Lesser known movies I like](https://erikgahner.dk/2022/lesser-known-movies-i-like/)
 | 2022-12-13 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-sitcomcomparison.R) | [Frasier, Seinfeld and Friends](https://erikgahner.dk/2022/frasier-seinfeld-and-friends/)
