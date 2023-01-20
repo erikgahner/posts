@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2023-01-20 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/01-cowen_things.R) | [Tyler Cowen’s favourite things](https://erikgahner.dk/2023/tyler-cowens-favourite-things/)
 | 2022-12-31 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-poliscieffects.R) | [Effect sizes in political science](https://erikgahner.dk/2022/effect-sizes-in-political-science/)
 | 2022-12-24 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-pret.R) | [Pret a Manger](https://erikgahner.dk/2022/pret-a-manger/)
 | 2022-12-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2022/12-imdb_leastrated.R) | [Lesser known movies I like](https://erikgahner.dk/2022/lesser-known-movies-i-like/)
