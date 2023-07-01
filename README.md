@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2023-07-01 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/07-againstnudging.R) | [Against nudging](https://erikgahner.dk/2023/against-nudging/)
 | 2023-06-10 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/06-worldhistory.R) | [National narcissism and proportion estimation in surveys](https://erikgahner.dk/2023/national-narcissism-and-proportion-estimation-in-surveys/)
 | 2023-05-03 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/05-brexit_wind.R) | [The many causes of Brexit #2](https://erikgahner.dk/2023/the-many-causes-of-brexit-2/)
 | 2023-02-28 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/02-meningsmaalinger.R) | [Hvor står partierne i meningsmålingerne?](https://erikgahner.dk/2023/hvor-star-partierne-i-meningsmalingerne/)
