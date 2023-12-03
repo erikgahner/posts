@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2023-10-18 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/10-noParty.R) | [Der er ikke valg i morgen #2](https://erikgahner.dk/2023/der-er-ikke-valg-i-morgen-2/)
 | 2023-09-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/09-vildeproblemer.R) | [Vilde problemer i meningsmålinger](https://erikgahner.dk/2023/vilde-problemer-i-meningsmalinger/)
 | 2023-08-21 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/08-MRposts.R) | [Twenty years of Marginal Revolution](https://erikgahner.dk/2023/twenty-years-of-marginal-revolution/)
 | 2023-08-01 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/08-parlpoll.R) | [The quality of opinion polling in parliamentary elections](https://erikgahner.dk/2023/the-quality-of-opinion-polling-in-parliamentary-elections/)
