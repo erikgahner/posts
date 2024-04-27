@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2024-04-07 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/04-nyeborgerlige.R) | [Hvor mange vil stemme på Nye Borgerlige? #12](https://erikgahner.dk/2024/hvor-mange-vil-stemme-pa-nye-borgerlige-12/)
 | 2024-02-08 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/02-R_bluesky.R) | [Links I have shared on Bluesky](https://erikgahner.dk/2024/links-i-have-shared-on-bluesky/)
 | 2023-10-18 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/10-noParty.R) | [Der er ikke valg i morgen #2](https://erikgahner.dk/2023/der-er-ikke-valg-i-morgen-2/)
 | 2023-09-16 | [🔗](https://github.com/erikgahner/posts/blob/master/2023/09-vildeproblemer.R) | [Vilde problemer i meningsmålinger](https://erikgahner.dk/2023/vilde-problemer-i-meningsmalinger/)
