@@ -5,6 +5,7 @@ Material for posts on erikgahner.dk
 
 | Date |  Script | Post
 | - | - | -
+| 2024-05-18 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/05-shownumbers.R) | [How to improve your figures #13: Show the numbers](https://erikgahner.dk/2024/how-to-improve-your-figures-13-show-the-numbers/)
 | 2024-05-12 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/05-ggplot2themes.R) | [An overview of ggplot2 themes](https://erikgahner.dk/2024/an-overview-of-ggplot2-themes/)
 | 2024-04-07 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/04-nyeborgerlige.R) | [Hvor mange vil stemme på Nye Borgerlige? #12](https://erikgahner.dk/2024/hvor-mange-vil-stemme-pa-nye-borgerlige-12/)
 | 2024-02-08 | [🔗](https://github.com/erikgahner/posts/blob/master/2024/02-R_bluesky.R) | [Links I have shared on Bluesky](https://erikgahner.dk/2024/links-i-have-shared-on-bluesky/)
